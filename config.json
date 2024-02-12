@@ -7,7 +7,7 @@
 		"trusted_origins": ["gophish-test-2763371332.up.railway.app"]
 	},
 	"phish_server": {
-		"listen_url": "0.0.0.0:443",
+		"listen_url": "0.0.0.0:3333",
 		"use_tls": false,
 		"cert_path": "example.crt",
 		"key_path": "example.key"
